@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on PHP , Laravel<br><br>🌱 I’m currently learning PHP , CSS , .JS<br><br>👨‍💻 All of my projects are available at github.com/yusufkggoglu?tab=repositories<br><br>📫 How to reach me yusufcankggoglu@gmail.com</p>
+<p align="left">🔭 I’m currently working on PHP , Laravel<br><br>🌱 I’m currently learning PHP , CSS , .JS<br><br>👨‍💻 All of my projects are available at (github.com/yusufkggoglu?tab=repositories(<br><br>📫 How to reach me**yusufcankggoglu@gmail.com**</p>
 
 ###
 
