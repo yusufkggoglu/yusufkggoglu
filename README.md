@@ -18,15 +18,14 @@
 ## About Me  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on PHP, Laravel.  
-  
+- 🔭Currently working on PHP, Laravel. I develop and sell websites. 
 
-- 🌱 I’m currently learning C#, .NET.  
+- 🌱 I’m currently learning C#, .NET and developing projects.  
   
+- ⚡I am studying computer engineering at Karabuk University.  
 
 - 👨‍💻 All of my projects are available at https://github.com/yusufkggoglu?tab=repositories  
-  
-
+ 
 - 📫 How to reach me yusufcankggoglu@gmail.com  
 
 
