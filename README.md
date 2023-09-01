@@ -20,7 +20,7 @@
 
 - 🔭Currently working on PHP, Laravel. I develop and sell websites. 
 
-- 🌱 I’m currently learning C#, .NET and developing projects.  
+- 🌱 I’m currently learning Golang and developing projects.  
   
 - ⚡I am studying computer engineering at Karabuk University.  
 
