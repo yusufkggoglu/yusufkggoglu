@@ -11,10 +11,8 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages 
   
-- ⚡I am studying computer engineering at Karabuk University.  
-
-- 👨‍💻 All of my projects are available at https://github.com/yusufkggoglu?tab=repositories  
- 
+- ⚡I am studying computer engineering at Karabuk University.
+   
 - 📫 How to reach me yusufcankggoglu@gmail.com  
 
 
