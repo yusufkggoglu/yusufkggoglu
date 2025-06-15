@@ -9,9 +9,9 @@
 ## About Me  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning Web Development and other programming languages 
+- ⚡ I’m currently working backend development
   
-- ⚡I am studying computer engineering at Karabuk University.
+- 🎓 I graduated in Computer Engineering from Karabuk University.
    
 - 📫 How to reach me yusufcankggoglu@gmail.com  
 
