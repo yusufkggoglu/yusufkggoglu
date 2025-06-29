@@ -9,7 +9,7 @@
 ## About Me  
 <table><tr><td valign="top" width="50%">
 
-- ⚡ I’m currently working backend development
+- ⚡ I’m currently working on backend development
   
 - 🎓 I graduated in Computer Engineering from Karabuk University.
    
